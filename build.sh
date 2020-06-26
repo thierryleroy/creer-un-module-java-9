@@ -1,6 +1,7 @@
-cd source/module-a
+cd module-a
 ./compile.sh
 ./package.sh
-cd ../module-b
+cd ..
+cd module-b
 ./compile.sh
 ./package.sh
