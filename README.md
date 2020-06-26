@@ -1,1 +1,2 @@
-# creer-un-module-java-9
+# Créer un module Java 9
+(avec javac et jar et sans IDE)
