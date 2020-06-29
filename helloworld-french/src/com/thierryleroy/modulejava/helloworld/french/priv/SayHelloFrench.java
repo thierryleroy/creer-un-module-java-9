@@ -1,4 +1,4 @@
-package com.thierryleroy.modulejava.french.priv;
+package com.thierryleroy.modulejava.helloworld.french.priv;
 import com.thierryleroy.modulejava.helloworld.ISayHello;
 public class SayHelloFrench implements ISayHello {
 

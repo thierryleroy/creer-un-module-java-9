@@ -1,4 +1,4 @@
-import com.thierryleroy.modulejava.french.priv.SayHelloFrench;
+import com.thierryleroy.modulejava.helloworld.french.priv.SayHelloFrench;
 import com.thierryleroy.modulejava.helloworld.ISayHello;
 module com.thierryleroy.modulejava.helloword.french {
 
