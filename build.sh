@@ -1,7 +1,7 @@
-cd module-a
+cd helloworld
 ./compile.sh
 ./package.sh
 cd ..
-cd module-b
+cd helloworld-french
 ./compile.sh
 ./package.sh
